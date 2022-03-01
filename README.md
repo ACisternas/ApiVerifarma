@@ -23,10 +23,10 @@ Pasos a seguir:
 
 - Crear base de datos con nombre apiverifarma.
 - Ejecutar los siguientes comandos en la carpeta del proyecto desde una terminal para instalar el proyecto:
-    -npm install
-    -composer install
-    -php artisan migrate(con la base de datos ya creada e inicializa)
-    -php artisan serve
+- npm install
+- composer install
+- php artisan migrate(con la base de datos ya creada e inicializa)
+- php artisan serve
 
 
 ## TEST UNITARIOS
