@@ -21,8 +21,8 @@ Se requiere:
 
 Pasos a seguir: 
 
-- Crear base de datos con nombre apiverifarma.
-- Ejecutar los siguientes comandos en la carpeta del proyecto desde una terminal para instalar el proyecto:
+- Crear base de datos de manera local con nombre apiverifarma (en mi caso utilice xampp).
+- Ejecutar los siguientes comandos en la carpeta del proyecto desde una terminal para instalar y levantar el proyecto.
 - npm install
 - composer install
 - php artisan migrate(con la base de datos ya creada e inicializa)
