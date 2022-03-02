@@ -25,7 +25,7 @@ Pasos a seguir:
 - Ejecutar los siguientes comandos en la carpeta del proyecto desde una terminal para instalar y levantar el proyecto.
 - npm install
 - composer install
-- php artisan migrate(con la base de datos ya creada e inicializa)
+- php artisan migrate(con la base de datos ya creada e inicializada)
 - php artisan serve
 
 
