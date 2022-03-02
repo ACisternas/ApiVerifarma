@@ -35,4 +35,5 @@ php artisan test
 
 ## DOCUMENTACIÓN
 
+Documentación hecha en postman:
 - **[Documentación](https://web.postman.co/workspace/My-Workspace~279f24ab-5544-4981-88ca-3d3b3c0f212b/request/8834881-0669c3ef-d69b-4540-91bd-b5c96cb556e1)**
